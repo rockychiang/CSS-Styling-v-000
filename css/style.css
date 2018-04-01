@@ -42,4 +42,6 @@ figcaption {
 
 /* Descendent selector */
 
-#logo h1
+#logo h1 {
+  
+}
